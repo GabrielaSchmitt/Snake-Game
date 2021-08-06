@@ -1,4 +1,4 @@
-﻿<H1> Snake Game </H1>
+﻿<H1> 🐍 Snake Game 🐍 </H1>
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
